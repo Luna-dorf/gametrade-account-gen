@@ -3,6 +3,7 @@ chromedriveを使用しています。
 作られたアカウントはDiscordのWebhookを使用して送られます。
 
 How to use
+
 [1]///Discordサーバーでチャンネルを作成してWebhookを作成してください。
 
 [2]///webhook に作成されたWebhookのURLを代入してください。
