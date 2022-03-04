@@ -1,6 +1,7 @@
 # gametrade-account-gen
 chromedriveを使用しています。
 作られたアカウントはDiscordのWebhookを使用して送られます。
+(一応 Downloadにもtextで保存されます。)
 
 How to use
 
@@ -17,5 +18,7 @@ Q 起動しても何も起こりません　A chromeがdownloadされている�
 Q 二次配布していいですか？　  A ここのLinkを貼ってください。ファイルをそのまま上げるのはやめてください。
 
 Q クラックしていいですか？ 　 A ?????????どういう意味ですか、source公開なんですけど。
+
+chromedriver  https://chromedriver.chromium.org/
 
 連絡はここへ　cloth#0420
