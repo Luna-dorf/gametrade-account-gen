@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gametrade", "gametrade.csproj", "{F00C7AE6-3C96-4A00-B041-4F4D28A05592}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9373593F-C0F1-48B5-84CC-4D77ED5FA736}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00C7AE6-3C96-4A00-B041-4F4D28A05592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00C7AE6-3C96-4A00-B041-4F4D28A05592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00C7AE6-3C96-4A00-B041-4F4D28A05592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00C7AE6-3C96-4A00-B041-4F4D28A05592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64150ECB-A47F-42BC-84FF-77A57BA74EC4}
+	EndGlobalSection
+EndGlobal
