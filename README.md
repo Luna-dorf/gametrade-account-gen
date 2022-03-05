@@ -1,7 +1,8 @@
 # gametrade-account-gen
 chromedriveを使用しています。
 作られたアカウントはDiscordのWebhookを使用して送られます。
-(一応 Downloadにもtextで保存されます。)
+
+(一応 Downloadsにもtextで保存されます。)
 
 How to use
 
