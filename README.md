@@ -22,4 +22,6 @@ Q クラックしていいですか？ 　 A ?????????どういう意味です�
 
 chromedriver  https://chromedriver.chromium.org/
 
+ちなみにsource抜いたやつです
+
 連絡はここへ　cloth#0420
